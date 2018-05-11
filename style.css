@@ -1,0 +1,38 @@
+.franja1{
+	background: url("images/bg.jpeg");
+	color: white;
+	height: 450px;
+}
+
+.franja2{
+	text-align: center;
+	padding: 30px;
+}
+
+.franja3{
+	text-align: center;
+	background-color: #c0c0c024;
+	padding: 40px;
+}
+
+.franja4{
+	padding: 40px;
+}
+
+.franja5{
+	background-color: black;
+	color: white;
+
+}
+
+
+.li{
+	list-style-type: none;
+	float: left;
+	padding-right: 30px;
+	color: gray;
+}
+
+.ul{
+	float: right;
+}
